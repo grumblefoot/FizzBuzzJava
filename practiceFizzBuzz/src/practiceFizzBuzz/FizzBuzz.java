@@ -1,7 +1,10 @@
 package practiceFizzBuzz;
 
 import java.util.Scanner;
-
+/**
+ *@author Rowan W Osmon version 1.0 
+* This is a baisc FizzBuzz I made for practice.
+*/
 public class FizzBuzz {
 
 	public static void main(String[] args) {
